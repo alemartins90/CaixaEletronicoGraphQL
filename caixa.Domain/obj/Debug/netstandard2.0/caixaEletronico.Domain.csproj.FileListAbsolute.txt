@@ -1,0 +1,8 @@
+C:\Users\Alexandre\Source\Repos\CaixaEletronico\caixa.Domain\bin\Debug\netstandard2.0\caixaEletronico.Domain.deps.json
+C:\Users\Alexandre\Source\Repos\CaixaEletronico\caixa.Domain\bin\Debug\netstandard2.0\caixaEletronico.Domain.dll
+C:\Users\Alexandre\Source\Repos\CaixaEletronico\caixa.Domain\obj\Debug\netstandard2.0\caixaEletronico.Domain.csprojAssemblyReference.cache
+C:\Users\Alexandre\Source\Repos\CaixaEletronico\caixa.Domain\obj\Debug\netstandard2.0\caixaEletronico.Domain.AssemblyInfoInputs.cache
+C:\Users\Alexandre\Source\Repos\CaixaEletronico\caixa.Domain\obj\Debug\netstandard2.0\caixaEletronico.Domain.AssemblyInfo.cs
+C:\Users\Alexandre\Source\Repos\CaixaEletronico\caixa.Domain\bin\Debug\netstandard2.0\caixaEletronico.Domain.pdb
+C:\Users\Alexandre\Source\Repos\CaixaEletronico\caixa.Domain\obj\Debug\netstandard2.0\caixaEletronico.Domain.dll
+C:\Users\Alexandre\Source\Repos\CaixaEletronico\caixa.Domain\obj\Debug\netstandard2.0\caixaEletronico.Domain.pdb
